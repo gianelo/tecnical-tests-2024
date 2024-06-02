@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #222;
+    font-family: system-ui;
+    color: #fff;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+    align-items: center;
+    max-width: 900px;
+}
+
+section img {
+    max-width: 450px;
+    height: 450px;
+    border: 1px solid rgb(116, 116, 116);
+    border-radius: 50%;
+}
+
+button {
+    padding: 5px 9px;
+    background: #09f;
+    color: #fff;
+    border-radius: 10%;
+}
