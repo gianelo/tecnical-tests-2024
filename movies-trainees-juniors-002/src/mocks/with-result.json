@@ -1,0 +1,76 @@
+{
+    "Search": [
+        {
+            "Title": "Dune",
+            "Year": "2021",
+            "imdbID": "tt1160419",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dune: Part Two",
+            "Year": "2024",
+            "imdbID": "tt15239678",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dune",
+            "Year": "1984",
+            "imdbID": "tt0087182",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTAzYzNlMDMtMGRjYS00M2UxLTk0MmEtYmE4YWZiYmEwOTIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Jodorowsky's Dune",
+            "Year": "2013",
+            "imdbID": "tt1935156",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0MzcxMTAxMl5BMl5BanBnXkFtZTgwODMyMTIxMTE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dune",
+            "Year": "2000",
+            "imdbID": "tt0142032",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MjMyMTkxN15BMl5BanBnXkFtZTYwODA5OTU5._V1_SX300.jpg"
+        },
+        {
+            "Title": "Children of Dune",
+            "Year": "2003",
+            "imdbID": "tt0287839",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTI3ODIwMTQ5OF5BMl5BanBnXkFtZTYwNTkwNDk5._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dune Drifter",
+            "Year": "2020",
+            "imdbID": "tt11835714",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjc4ODFiNzItZWY5OS00YzZkLWE0ZmYtMDYwODZlMDY0NjhhXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Planet Dune",
+            "Year": "2021",
+            "imdbID": "tt15331462",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYzVkNjZlMDctODEzMy00MWE1LWI4YTUtZjdmNDZhYmZhODI0XkEyXkFqcGdeQXVyNTkzMzg3NDM@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dune Warriors",
+            "Year": "1991",
+            "imdbID": "tt0099474",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjU4NDc4ZTQtZGI1Ny00NTc4LTk4ODctOTIyZTliZmM0MmJjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dune World",
+            "Year": "2021",
+            "imdbID": "tt14450978",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMzMxMzQ4MTMtYTk4MC00Njc3LTllN2MtOThjMzg4OTgwNDNhXkEyXkFqcGdeQXVyMjc0Nzk1Mg@@._V1_SX300.jpg"
+        }
+    ],
+    "totalResults": "82",
+    "Response": "True"
+}
